@@ -43,6 +43,15 @@ Theme inspired by the unusual Nebula effect from Team Fortress 2 😅
 }
 ```
 
+You can add this code in Stylus to change the background of the link previews :
+
+```
+.mk-url-preview > a > article[data-v-454399c2] {
+     background-color: rgb(77, 69, 115);
+     filter: brightness(92%);
+}
+```
+
 #Screenshot
 
 ![Nebula](nebula-misskey.png)
