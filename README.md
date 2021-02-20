@@ -7,7 +7,7 @@ Theme inspired by the unusual Nebula effect from Team Fortress 2 😅
 {
 	id: '1f75fa87-93de-4f3e-bc79-5b352e37a2c1',
 	base: 'dark',
-	desc: 'Violet dark theme, inspired by Nord theme and Twilight/Dawn theme by Guérin',
+	desc: 'Theme inspired by the unusual Nebula effect from Team Fortress 2',
 	name: 'Nebula',
 	props: {
 		bg: '#251F41',
